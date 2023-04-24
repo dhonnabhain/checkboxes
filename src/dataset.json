@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "parent_1",
+    "children": [{ "id": 3, "title": "child_1_1 " }]
+  },
+  {
+    "id": 2,
+    "title": "parent_2",
+    "children": [
+      { "id": 4, "title": "child_2_1 " },
+      { "id": 5, "title": "child_2_2 " }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "parent_3"
+  },
+  {
+    "id": 7,
+    "title": "parent_4",
+    "children": [
+      { "id": 8, "title": "child_4_1 " },
+      { "id": 9, "title": "child_4_2 " },
+      { "id": 9, "title": "child_4_3 " }
+    ]
+  }
+]
